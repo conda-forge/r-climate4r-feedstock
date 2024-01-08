@@ -1,6 +1,6 @@
 {% set name = "climate4R" %}
 {% set version = "2.6.2" %}
-{% set build_number = 0 %}
+{% set build_number = 1 %}
 {% set c4renv = load_file_data('climate4r.yaml', from_recipe_dir=True) %}
 
 package:
